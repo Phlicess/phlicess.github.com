@@ -1,2 +1,2 @@
-# phlicess.github.com
-个人站点
+# Phlicess
+PHlicess的个人博客
